@@ -1,5 +1,7 @@
 # Bank_loan-Case-study
-![Uploading image.png…]()
+
+
+![Uploading pile-of-money-symbolized-to-bank-loan-application-vector-12705172.jpg…]()
 
 
  Project aims is to analyse the loan of bank. When the company receives a loan application,
