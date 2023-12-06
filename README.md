@@ -1,4 +1,5 @@
 # Bank_loan-Case-study
+![Uploading image.png…]()
 
  Project aims is to analyse the loan of bank. When the company receives a loan application,
  the company has to decide for loan approval on the basis of applicant profile.
